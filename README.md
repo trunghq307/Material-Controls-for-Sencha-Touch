@@ -76,9 +76,9 @@ Component List
 # Get Started
 <p>1. Copy Material package into Pakages folder of your Sencha Touch project</p>
 <p>2. Run package build command from Material package folder</p>
-<p style="font: italic">sencha package build</p>
+<p style="font-style: italic;">sencha package build</p>
 <p>3. And build your application again</p>
-<p style="font: italic">sencha app build</p>
+<p style="font-style: italic;">sencha app build</p>
 <p>After this, all of default control in your project should be change to Material style</p>
 
 # Full controls documentation
