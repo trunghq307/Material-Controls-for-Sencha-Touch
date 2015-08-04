@@ -20,57 +20,57 @@ Component List
 
 #### Button
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/Button.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/Button.gif">
 </p>
 
 #### TextField
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/TextField.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/TextField.gif">
 </p>
 
 #### Progress
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/Progress.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/Progress.gif">
 </p>
 
 #### Select
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/Select.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/Select.gif">
 </p>
 
 #### Slider
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/Slider.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/Slider.gif">
 </p>
 
 #### Toggle
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/Toggle.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/Toggle.gif">
 </p>
 
 #### TabBar
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/Tab.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/Tab.gif">
 </p>
 
 #### List
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/List.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/List.gif">
 </p>
 
 #### MessageBox
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/Messagebox.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/Messagebox.gif">
 </p>
 
 #### Checkbox
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/Checkbox.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/Checkbox.gif">
 </p>
 
 #### DatePicker
 <p align="center">
-<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/Images/DatePicker.gif">
+<img style="-webkit-user-select: none;" src="https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/blob/master/Images/DatePicker.gif">
 </p>
 
 # Get Started
