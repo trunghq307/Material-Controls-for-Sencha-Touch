@@ -76,9 +76,9 @@ Component List
 # Get Started
 <p>1. Copy Material package into Pakages folder of your Sencha Touch project</p>
 <p>2. Run package build command from Material package folder</p>
-*sencha package build*
+**_sencha package build_**
 <p>3. And build your application again</p>
-*sencha app build*
+**_sencha app build_**
 <p>After this, all of default control in your project should be change to Material style</p>
 <p>See sample project for more details</p>
 
