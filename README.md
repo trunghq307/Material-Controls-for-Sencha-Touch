@@ -76,27 +76,27 @@ Component List
 # Get Started
 <p>1. Copy Material package into Pakages folder of your Sencha Touch project</p>
 <p>2. Add a new line into your app.scss, something like bellow;</p>
-	*@import 'sencha-touch/default';*
-	*@import 'sencha-touch/default/all';*
-	**_@import '../../packages/Material/sass/src/Material.scss';_**
-	**_@include md-ripple;_**
+	@import 'sencha-touch/default';
+	@import 'sencha-touch/default/all';
+	@import '../../packages/Material/sass/src/Material.scss';
+	@include md-ripple;
 	
 	Add 'mixin' of which control you want to use
-	**_@include md-button;_**
-	**_@include md-text-field;_**
-	**_@include md-toggle;_**
-	**_@include md-slide;_**
-	**_@include md-tab;_**
-	**_@include md-checkbox;_**
-	**_@include md-message-box;_**
-	**_@include md-progress-circular;_**
-	**_@include md-toolbar;_**
-	**_@include md-select;_**
-	**_@include md-date-picker;_**
+	@include md-button;
+	@include md-text-field;
+	@include md-toggle;
+	@include md-slide;
+	@include md-tab;
+	@include md-checkbox;
+	@include md-message-box;
+	@include md-progress-circular;
+	@include md-toolbar;
+	@include md-select;
+	@include md-date-picker;
 <p>3. Run package build command from Material package folder</p>
-	**_sencha package build_**
+	sencha package build
 <p>4. And build your application again</p>
-	**_sencha app build_**
+	sencha app build
 <p>After this, all of default control in your project should be change to Material style</p>
 <p>See sample project for more details</p>
 
