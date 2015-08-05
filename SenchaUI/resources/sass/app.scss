@@ -1,0 +1,39 @@
+// The following two lines import the default Sencha Touch theme. If you are building
+// a new theme, remove them and the add your own CSS on top of the base CSS (which
+// is already included in your app.json file).
+@import 'sencha-touch/default';
+@import 'sencha-touch/default/all';
+@import '../../packages/Material/sass/src/Material.scss';
+
+// Custom code goes here..
+//Material Design
+@include md-ripple;
+
+@include md-button;
+
+@include md-text-field;
+
+@include md-toggle;
+
+@include md-slider;
+
+@include md-tab;
+
+@include md-checkbox;
+
+@include md-message-box;
+
+@include md-progress-circular;
+
+@include md-toolbar;
+
+@include md-select;
+
+@include md-date-picker;
+
+
+
+
+
+
+
