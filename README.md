@@ -75,13 +75,14 @@ Component List
 
 # Get Started
 <p>1. Copy Material package into Pakages folder of your Sencha Touch project</p>
-<p>2. Add a new line into your app.scss, something like bellow;</p>
+	Path: SenchaUI/packages/Material
+<p>2. Add SASS references as bellow;</p>
 	@import 'sencha-touch/default';
 	@import 'sencha-touch/default/all';
 	@import '../../packages/Material/sass/src/Material.scss';
 	@include md-ripple;
 	
-	Add 'mixin' of which control you want to use
+	Add 'mixin' for the control you want to use
 	@include md-button;
 	@include md-text-field;
 	@include md-toggle;
@@ -98,9 +99,7 @@ Component List
 <p>4. And build your application again</p>
 	sencha app build
 <p>After this, all of default control in your project should be change to Material style</p>
-<p>See sample project for more details</p>
+<p>Run the samples of SenchaUI project for more details</p>
 
-# Full controls documentation
-Please go to [Wiki](https://github.com/fpt-software/Material-Controls-for-Sencha-Touch/wiki) to see how to use and customize each control.
 
 Provided by [FPT Software](http://www.fpt-software.com/)
